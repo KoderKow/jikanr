@@ -17,3 +17,5 @@ Imports:
     lifecycle,
     rlang,
     withr
+URL: https://github.com/KoderKow/jikanr
+BugReports: https://github.com/KoderKow/jikanr/issues
