@@ -4,9 +4,17 @@
 \name{jikanr-package}
 \alias{jikanr}
 \alias{jikanr-package}
-\title{jikanr: What the Package Does (One Line, Title Case)}
+\title{jikanr: R wrapper for the Jikan API: The Unofficial MyAnimeList API}
 \description{
 What the package does (one paragraph).
+}
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/KoderKow/jikanr}
+  \item Report bugs at \url{https://github.com/KoderKow/jikanr/issues}
+}
+
 }
 \author{
 \strong{Maintainer}: Kyle Harris \email{koderkow@gmail.com}
